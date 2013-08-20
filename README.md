@@ -1,5 +1,4 @@
-This fork is an adaptation of the original android-mqtt-demo (https://github.com/jsherman1/android-mqtt-demo)
-but using callbacks instead of Future (plus with some other tweaks in the GUI)
+This fork is an adaptation of the original android-mqtt-demo (https://github.com/jsherman1/android-mqtt-demo) but using callbacks instead of Future (plus with some other tweaks in the GUI)
 =================
 
 Android MQTT Client - Demo
